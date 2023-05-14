@@ -1,0 +1,32 @@
+.header-container{
+    display: flex;
+    justify-content: space-between;
+    /* align-items: center; */
+    color: #3A4895;
+    padding: 25px;
+    margin: 0 50px;
+}
+.store-title {
+    font-weight: 700;
+}
+
+.cart-icon{
+    font-size: 45px;
+    position: relative;
+}
+
+.counter{
+    /* border: red 2px solid; */
+    border-radius: 180px;
+    width: 20px;
+    /* height: 25px; */
+    text-align: center;
+    color: white;
+    background-color: red;
+    font-weight: bold;
+    position: absolute;
+    top: 25px;
+    right: 84px;
+    
+    
+}

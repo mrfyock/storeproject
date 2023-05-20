@@ -1,0 +1,17 @@
+img{
+    width: 250px;
+    height: 250px;
+    margin-bottom:10px;
+    /* background-color: yellow; */
+}
+.item-card{
+    margin: 20px;
+}
+
+.item-card p{
+    text-align: left;
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}

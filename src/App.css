@@ -10,3 +10,9 @@
   box-sizing: border-box;
   font-family: 'Inter', sans-serif;
 }
+
+.buttons-container {
+  display: flex;
+  padding-left: 100px;
+  text-align: left;
+}

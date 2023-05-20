@@ -1,0 +1,18 @@
+.blurb{
+    color: white;
+}
+
+.footer-container{
+    background-color: #3A4895;
+    height: 5vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 18px;
+    padding-right: 18px;
+}
+.contact{
+    color: white;
+    font-size: 12px;
+    /* align-self: center; */
+}

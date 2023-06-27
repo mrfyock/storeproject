@@ -11,6 +11,13 @@
   font-family: 'Inter', sans-serif;
 }
 
+:root{
+  --main-blue:#4c64bc;
+  --main-grey: #b4b4b4;
+  --main-white: white;
+}
+
+
 .buttons-container {
   display: flex;
   padding-left: 100px;
